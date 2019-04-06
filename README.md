@@ -1,2 +1,2 @@
-# second_year
-CSC211 and CSC212 Practucaks
+# Second Year
+CSC211 and CSC212 Practicals
